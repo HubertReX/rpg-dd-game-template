@@ -1,2 +1,5 @@
 .idea/
 /images/hud_frame.aseprite
+.venv
+/game/build/*
+__pycache__

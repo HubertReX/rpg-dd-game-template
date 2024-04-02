@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"blit",
+			"colorkey",
+			"KEYDOWN",
+			"KSCAN",
+			"midleft",
+			"midright",
+			"midtop",
+			"MULT",
+			"pygame",
+			"pygbag",
+			"venv"
+		]
+	}
+}
